@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50">
   <br>
-  Sistema Bancário em C
+  Banco Grid
 </h1>
 
 <p align="center">
-  <strong>Efficient implementations of classic Data Structures & Algorithms.</strong>
+  <strong>Aplicação que simula o funcionamento de um caixa eletrônico.</strong>
 </p>
 
 <p align="center">
