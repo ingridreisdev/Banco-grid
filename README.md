@@ -23,9 +23,9 @@ O Banco Grid foi desenvolvido com o objetivo de simular o funcionamento de um si
 ## Inspiração do nome
 
 O nome GRID foi inspirado no meu próprio nome, ingrid! 
-Quis criar um banco fictício que tivesse uma identidade própria e um toque de originalidade, em vez de usar um nome genérico.
+Queria que o projeto tivesse uma identidade própria e um toque de originalidade, em vez de usar um nome genérico.
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias Utilizadas
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" height="45" alt="C Language" /></a>
